@@ -1,5 +1,13 @@
-class Login:
-    def __init__(self, cpf, email, senha):
-        self.cpf = cpf
-        self.email = email
-        self.senha = senha
+from tkinter import *
+login = Tk()
+login.title = "Login"
+Label(login,text="Usuário").pack()
+usuario = Entry()
+usuario.pack()
+Label(login,text="Senha:").pack()
+senha = Entry()
+senha.pack()
+entrar = Button(login,text="Entrar",command=login.destroy)
+entrar.pack()
+
+login.mainloop()
