@@ -12,6 +12,7 @@ Aplicação para gerenciamento de ferramentas em um ambiente de produção de co
 
 ## 👥 Grupo
 Dev Team #
+
 [Emanuel Roseira Guedes](https://github.com/guedesert) - 202212181407
 
 ## 📥 Como baixar e executar
