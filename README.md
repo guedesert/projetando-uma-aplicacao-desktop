@@ -1,20 +1,23 @@
 ![Capa do projeto com logo da Estácio](./.github/capa.svg)
 
+<div align="center">
 
 ---
 
-[Projeto](#-projeto) • [Grupo](#-grupo) • [Como baixar e executar](#-como-baixar-e-executar) • [Tecnologias utilizadas](#-tecnologias-utilizadas) • [Licença](#-licença)
+[Projeto](#-projeto) • [Funcionalidades](#-funcionalidades) • [Como baixar e executar](#-como-baixar-e-executar) • [Tecnologias utilizadas](#-tecnologias-utilizadas) • [Autores](#-autores) • [Licença](#-licença)
 
 ---
+
+</div>
 
 ## 📋 Projeto
 Aplicação para gerenciamento de ferramentas em um ambiente de produção de conteúdo audiovisual de grande porte, apresentada como parte da **`Misssão de Certificação: Projetando uma Aplicação Desktop`** do **`Mundo 1`** do curso de **`Desenvolvimento Full Stack`** da [**`Estácio`**](https://estacio.br/formulario?cod_agente=14369444&u=177546), do semestre de **`2022.4`** utilizando a linguagem de programação Python.
 
-## 👥 Grupo
-Dev Team #
-
-[Emanuel Roseira Guedes](https://github.com/guedesert)
-**Matrícula:** 202212181407
+## 🗃 Funcionalidades
+- Cadastro e consulta de ferramentas
+- Cadastro e consulta de técnicos
+- Cadastro e consulta de reservas
+- Impressão das reservas
 
 ## 📥 Como baixar e executar
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
@@ -26,12 +29,20 @@ Além disso, é interessante que você tenha um bom IDE para trabalhar com os c�
 ## 🛠 Tecnologias utilizadas
 Para a construção e execução do projeto foram utilizadas as seguintes tecnologias:
 - Linguagem:
-    - [Python](https://www.python.org/)
+  - [Python](https://www.python.org/)
 - Bibliotecas:
   - tkinter
 - IDEs:
-    - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
-    - [Visual Studio Code](https://code.visualstudio.com/)
+  - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
+  - [Visual Studio Code](https://code.visualstudio.com/)
+- Geração de imagens:
+  - [Figma](https://www.figma.com/)
+
+## 👥 Autores
+Dev Team #
+
+[Emanuel Roseira Guedes](https://github.com/guedesert)
+- **Matrícula:** 202212181407
 
 ## 📃 Licença
 Este repositório está licensiado sob a [Licença MIT](./LICENSE).
