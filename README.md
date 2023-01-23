@@ -1,4 +1,4 @@
-# 💻 Projetando uma aplicação desktop
+![Capa do projeto com logo da Estácio](./.github/capa.svg)
 
 
 ---
@@ -13,7 +13,8 @@ Aplicação para gerenciamento de ferramentas em um ambiente de produção de co
 ## 👥 Grupo
 Dev Team #
 
-[Emanuel Roseira Guedes](https://github.com/guedesert) - 202212181407
+[Emanuel Roseira Guedes](https://github.com/guedesert)
+**Matrícula:** 202212181407
 
 ## 📥 Como baixar e executar
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
