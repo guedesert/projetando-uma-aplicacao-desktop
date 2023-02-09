@@ -32,7 +32,6 @@ Para a construção e execução do projeto foram utilizadas as seguintes tecnol
   - [Python](https://www.python.org/)
 - Bibliotecas:
   - tkinter
-  - pandas
 - IDEs:
   - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
   - [Visual Studio Code](https://code.visualstudio.com/)
@@ -40,15 +39,10 @@ Para a construção e execução do projeto foram utilizadas as seguintes tecnol
   - [Figma](https://www.figma.com/)
 
 ## 👥 Autores
-Dev Team #3
+Dev Team #
 
-| Aluno | Matrícula |
-| --- | --- |
-| Davidson Pereira de Oliveira | 202211545855 |
-| [Emanuel Roseira Guedes](https://github.com/guedesert) | 202212181407 |
-| Joicy Carvalho da Costa | 202211515719 |
-| Samir Campos Lima | 202211471411 |
-
+[Emanuel Roseira Guedes](https://github.com/guedesert)
+- **Matrícula:** 202212181407
 
 ## 📃 Licença
 Este repositório está licensiado sob a [Licença MIT](./LICENSE).
