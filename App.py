@@ -4,7 +4,7 @@ import PySimpleGUI as sg
 # Login
 def sgLogin():
     layoutLogin = [
-        [sg.Image(filename="./logo.png")],
+        [sg.Image(filename="./assets/logo.png")],
         [sg.Text("Usuário"),],
         [sg.Input(key="usuario")],
         [sg.Text("Senha")],
