@@ -17,7 +17,6 @@ Aplicação para gerenciamento de ferramentas em um ambiente de produção de co
 - Cadastro e consulta de ferramentas
 - Cadastro e consulta de técnicos
 - Cadastro e consulta de reservas
-- Impressão das reservas
 
 ## 📥 Como baixar e executar
 Para baixar os arquivos deste repositório, você deve ter o [GitHub](https://github.com/) instalado em seu dispositivo.
@@ -31,18 +30,21 @@ Para a construção e execução do projeto foram utilizadas as seguintes tecnol
 - Linguagem:
   - [Python](https://www.python.org/)
 - Bibliotecas:
-  - tkinter
+  - [openpyxl](https://pypi.org/project/openpyxl/)
+  - [PySimpleGUI](https://www.pysimplegui.org/en/latest/)
 - IDEs:
   - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
   - [Visual Studio Code](https://code.visualstudio.com/)
-- Geração de imagens:
-  - [Figma](https://www.figma.com/)
 
 ## 👥 Autores
-Dev Team #
-
-[Emanuel Roseira Guedes](https://github.com/guedesert)
-- **Matrícula:** 202212181407
+Dev Team #1
+| Aluno | Matrícula |
+| ------------- | ------------- |
+| Cleydson Coelho Cavalcanti | 202211673161 |
+| Douglas Ciro de Campos | 202211601951 |
+| [Emanuel Roseira Guedes](https://github.com/guedesert) | 202212181407 |
+| Juliano Prates da Cunha | 202211418624 |
+| Kelmer de Oliveira da Silva | 202211576335 |
 
 ## 📃 Licença
 Este repositório está licensiado sob a [Licença MIT](./LICENSE).
